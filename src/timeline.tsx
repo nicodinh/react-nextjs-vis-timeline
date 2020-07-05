@@ -10,7 +10,6 @@ import type {
 	TimelineItem,
 	TimelineOptions
 } from 'vis-timeline/types';
-import 'vis-timeline/styles/vis-timeline-graph2d.min.css';
 
 import _difference from 'lodash/difference';
 import _intersection from 'lodash/intersection';
