@@ -4,3 +4,8 @@
 
 examples
 src
+
+tsconfig.json
+.prettierignore
+.prettierrc
+.eslintrc.js
